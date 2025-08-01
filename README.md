@@ -16,8 +16,8 @@ The portfolio showcases:
 ## 💡 Features
 
 - Fully responsive HTML and CSS
-- Clean, modern design using semantic HTML
-- Custom CSS styling (no frameworks)
+- Clean, modern design using HTML
+- Custom CSS styling 
 - Easy-to-update structure for future projects
   
 
